@@ -1,0 +1,17 @@
+{
+  "name": "weather-api-app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+<<<<<<< HEAD
+    "start": "npm start"
+=======
+    "build-css": "tailwindcss build style.css -o css/style.css"
+>>>>>>> 4e17c914ffb66f9374c6c6ced1cc61ec3e721022
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.1.8"
+  }
+}
